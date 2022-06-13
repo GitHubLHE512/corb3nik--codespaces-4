@@ -1,0 +1,4 @@
+{
+  "onCreateCommand": "echo $GITHUB_TOKEN"
+}
+
